@@ -28,7 +28,7 @@ def get_package_data(package):
 
 
 setup(
-    name='twrestapiplaces.py',
+    name='TwRestApiPlaces',
     version='0.1',
     packages=get_packages('TwRestApiPlaces'),
     package_data=get_package_data('TwRestApiPlaces'),
