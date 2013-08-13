@@ -1,0 +1,14 @@
+Change history
+**************
+
+
+0.0.1
+######
+
+* First Version. Initial.
+* Search Trends/Place by Woeid
+* Integration with Yahoo Woeid Lookup
+* Search Trends/Place by Place Name
+* Returns a collection of relevant Tweets matching a specified query.
+* added requirements.txt
+* added license file
