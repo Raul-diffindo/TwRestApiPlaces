@@ -33,13 +33,13 @@ See your Twitter user/deveoper apps at https://dev.twitter.com/user/login?destin
 
 """
 
-CONSUMER_KEY = 'LwI1IORzO7nT4lUgXJtmHQ'
+CONSUMER_KEY = ''
 
-CONSUMER_SECRET = '5RywhXGbxelm1FsTCTWYsw7d585OMaTNI8b2gwDwo'
+CONSUMER_SECRET = ''
 
-ACCESS_TOKEN = '418102122-DuBnnlwwF7T9v6uMhoohz1Knprl6ulbJF7jpvWyI'
+ACCESS_TOKEN = ''
 
-ACCESS_TOKEN_SECRET = 'rfPWP6fjJf9kK7vcjTnhyO8WMPKyjJXg6t3WcJoIrc'
+ACCESS_TOKEN_SECRET = ''
 
 """
 Twitter REST API Settings.
