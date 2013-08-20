@@ -21,6 +21,9 @@ class YahooSearchException(Exception):
 
 
 class TwitterRestAPIException(Exception):
+    """
+    This class handles all exceptions directly based on Twitter Rest API Exceptions.
+    """
     _error_codes = {
         304 : 'Not Modified. There was no new data to return.',
         400 : 'Bad Request: The request was invalid',
